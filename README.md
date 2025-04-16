@@ -2,7 +2,8 @@
 This repository contains a complete solution to a technical case study designed to assess data exploration, KPI tracking, trend analysis, and dashboard building using Tableau.
 
 ## 🧠 Case Study Tasks
-https://t.lever-analytics.com/email-link?dest=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F109w1IvF_2CPIg-A4aGAG-WyJCzkLoj1C%2Fview&eid=6a1626c4-61c2-4661-8b55-bd63da266e12&idx=0&token=roUmsbfLyQ1yLABy-Ooeu5Ent7Q
+[https://t.lever-analytics.com/email-link?dest=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F109w1IvF_2CPIg-A4aGAG-WyJCzkLoj1C%2Fview&eid=6a1626c4-61c2-4661-8b55-bd63da266e12&idx=0&token=roUmsbfLyQ1yLABy-Ooeu5Ent7Q](https://drive.google.com/file/d/109w1IvF_2CPIg-A4aGAG-WyJCzkLoj1C/view
+)
 1. **Data Exploration**
    - Reviewed dataset structure and field definitions.
    - Identified key metrics: order status, revenue, merchant performance, etc.
